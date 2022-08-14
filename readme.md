@@ -4,7 +4,7 @@
 
 ![badge](https://img.shields.io/badge/project--14-Creativity-yellow)
 
-[Link of live project for view]()
+[Link of live project for view](https://creativitypage.netlify.app/)
 
 ![View page](./view14.png)
 
